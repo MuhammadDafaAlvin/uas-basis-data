@@ -1,0 +1,15 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #16122b;
+}
+h1{
+    color: #16122b;
+    font-weight: bold;
+}
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
